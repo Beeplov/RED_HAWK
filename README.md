@@ -91,10 +91,10 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 
 #FOR TERMUX USER -
 - Open Termux and Run the Command 'apt update && apt upgrade -y'
-- Install php 'pkg install git php -y'
-- Clone Repo 'git clone https://github.com/Tuhinshubhra/RED_HAWK'
-- Go to RedHawk Directory 'cd RED_HAWK'
-- Type 'php rhawk.php'
+- pkg install git php -y
+- git clone https://github.com/Tuhinshubhra/RED_HAWK
+- cd RED_HAWK
+- php rhawk.php
 - And you're done.
 
 # List of CMS Supported
