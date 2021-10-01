@@ -89,6 +89,14 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 - Select the type of scan you want to perform
 - Leave the rest to the scanner
 
+#FOR TERMUX USER -
+- Open Termux and Run the Command 'apt update && apt upgrade -y'
+- Install php 'pkg install git php -y'
+- Clone Repo 'git clone https://github.com/Tuhinshubhra/RED_HAWK'
+- Go to RedHawk Directory 'cd RED_HAWK'
+- Type 'php rhawk.php'
+- And you're done.
+
 # List of CMS Supported
 RED HAWK's `CMS Detector` currently is able to detect the following CMSs (Content Management Systems) in case the website is using some other CMS, Detector will return _could not detect_.
 
